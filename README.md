@@ -33,4 +33,4 @@
 
 
 
-<img src="https://raw.githubusercontent.com/kaanc3tin/kaanc3tin/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kaanc3tin/kaanc3tin/dist/snake.svg" alt="Snake animation" />
