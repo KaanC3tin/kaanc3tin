@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kaan Çetin</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaanc3tin&label=Profile%20views&color=0e75b6&style=flat" alt="kaanc3tin" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/n0d0dg3" target="blank"><img src="https://img.shields.io/twitter/follow/n0d0dg3?logo=twitter&style=for-the-badge" alt="n0d0dg3" /></a> </p>
