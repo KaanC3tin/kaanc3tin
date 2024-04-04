@@ -31,5 +31,6 @@
 
 
 <img src="https://camo.githubusercontent.com/62bf75bdf09421ac580f15b6d0a4a3fd7dd8e9dc0ca24457edd52c7c0ae3cf20/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7361696675727261686d616e3131393326686964653d68746d6c2c736373732c7374796c75732c626c6164652c6a7570797465722532306e6f7465626f6f6b2c707974686f6e2c6373732c7368656c6c2c626174636866696c652c646f636b657266696c652c6861636b2c76697375616c2532306261736963253230362e302c68616e646c65626172732c706c73716c267468656d653d616c676f6c69612673686f775f69636f6e733d74727565" alt="kaanc3tn's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&amp;hide=html,scss,stylus,blade,jupyter%20notebook,Javascript,css,tailwind,react,node.js,hack,visual%20basic%206.0,handlebars,plsql&amp;theme=algolia&amp;show_icons=true" style="max-width: 100%;">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
 
 
