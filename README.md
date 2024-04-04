@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaan Çetin</h1>
 
 
-<p align="left"> <a href="https://twitter.com/n0d0dg3" target="blank"><img src="https://img.shields.io/twitter/follow/n0d0dg3?logo=twitter&style=for-the-badge" alt="n0d0dg3" /></a> </p>
 
 - 📫 How to reach me **kaan_1536@outlook.com**
 - 🔭 I’m currently working on
