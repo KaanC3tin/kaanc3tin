@@ -5,6 +5,15 @@
 <p align="left"> <a href="https://twitter.com/n0d0dg3" target="blank"><img src="https://img.shields.io/twitter/follow/n0d0dg3?logo=twitter&style=for-the-badge" alt="n0d0dg3" /></a> </p>
 
 - 📫 How to reach me **kaan_1536@outlook.com**
+- 🔭 I’m currently working on
+- 👯 I’m looking to collaborate on
+- 🤝 I’m looking for help with
+- 🌱 I’m currently learning
+- 💬 Ask me about
+- 👨‍💻 All of my projects are available at
+- 📝 I regularly write articles on
+- 📄 Know about my experiences
+⚡ Fun fact
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
