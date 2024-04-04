@@ -29,6 +29,8 @@
  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kaanc3tin)](https://github.com/anuraghazra/github-readme-stats)
+
+(https://github-readme-stats.vercel.app/api/top-langs?username=kaanc3tin&hide=html,scss,sass,typescript,python,css,node.js,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
