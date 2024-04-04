@@ -30,7 +30,7 @@
 
 
 
-(https://github-readme-stats.vercel.app/api/top-langs?username=kaanc3tin&hide=html,scss,sass,typescript,python,css,node.js,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+[![KaanC3tin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kaanc3tin&hide=html,scss,sass,typescript,python,css,node.js,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
