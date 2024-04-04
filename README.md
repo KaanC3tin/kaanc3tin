@@ -29,6 +29,6 @@
  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
- <img align="center" src="https://camo.githubusercontent.com/0e12eddbe7e451c34d156b3e54d8e6466ee6be229ced3f54b6acd32acc6d5506/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6572656e656e312673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="erenen1" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=erenen1&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kaanc3tin)](https://github.com/anuraghazra/github-readme-stats)
 
 
