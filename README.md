@@ -36,4 +36,7 @@
 - **Linux:** 5 saat 31 dakika
 - **Kali:** 5 saat 31 dakika
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kaanc3tin=anuraghazra&show_icons=true&theme=transparent)
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?kaanc3tin=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
