@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next,git,kali,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next,git,kali,linux,postman,firebase,npm,vite)](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&layout=compact)
