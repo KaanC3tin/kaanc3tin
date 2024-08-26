@@ -21,21 +21,3 @@
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next,git,kali,linux,postman,firebase,npm,vite)](https://skillicons.dev)
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
-
-<!-- Wakatime Stats -->
-[![wakatime](https://wakatime.com/badge/user/YourUserID.svg)](https://wakatime.com/@YourUserID)
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
-<!-- GitHub Streak -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark)](https://git.io/streak-stats)
-
-<!-- GitHub Language Stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername)
-
