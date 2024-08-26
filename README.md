@@ -35,4 +35,5 @@
 - **Vite.js:** 5 saat 31 dakika
 - **Linux:** 5 saat 31 dakika
 - **Kali:** 5 saat 31 dakika
-- 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
