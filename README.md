@@ -39,6 +39,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kaanc3tin=anuraghazra&show_icons=true&theme=transparent)
 
 
-[[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?kaanc3tin=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-](https://github-readme-stats.vercel.app/api/wakatime?username=kaanc3tin&theme=dark&hide_border=false&layout=compact
-)
+
