@@ -22,21 +22,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next,git,kali,linux,postman,firebase,npm,vite)](https://skillicons.dev)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kaanc3tin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kaanc3tin&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanc3tin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## WakaTime İstatistikleri (Son Yıl)
+---
+[![](https://visitcount.itsvg.in/api?id=Kaanc3tin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- **Html:** 54 saat 18 dakika
-- **Css:** 54 saat 18 dakika
-- **Tailwind:** 54 saat 18 dakika
-- **JavaScript:** 24 saat 51 dakika
-- **TypeScript:** 100 saat 40 dakika
-- **React:** 26 saat 35 dakika
-- **Next.js:** 14 saat 36 dakika
-- **Vite.js:** 5 saat 31 dakika
-- **Linux:** 5 saat 31 dakika
-- **Kali:** 5 saat 31 dakika
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kaanc3tin=anuraghazra&show_icons=true&theme=transparent)
 
 
 
