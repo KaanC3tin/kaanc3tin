@@ -31,8 +31,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanc3tin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://wakatime.com/badge/user/Kaanc3tin.svg" alt="Wakatime Badge" style="display: block; margin: 20px auto;"/>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?KaanC3tin=anuraghazra&show_icons=true&theme=radical)
 
 ---
 
