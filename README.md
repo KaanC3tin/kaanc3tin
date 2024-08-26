@@ -23,7 +23,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next,git,kali,linux,postman,firebase,npm,vite)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
+<h3>
+📊 GitHub Stats:
+</h3> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaanc3tin&theme=tokyonight&hide_border=false" alt="Streak Stats" style="display: block; margin: 0 auto;"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Kaanc3tin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="display: block; margin: 20px auto;"/>
 
