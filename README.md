@@ -21,3 +21,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next,git,kali,linux,postman,firebase,npm,vite)](https://skillicons.dev)
+
+![WakaTime Stat](https://github-readme-stats.vercel.app/api/wakatime?username=KaanC3tin&api_domain=wakapi.dev&theme=dark&v=2)
+
