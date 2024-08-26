@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kaan Çetin</h1>
+<h1  align="center">Hi 👋, I'm Kaan Çetin</h1>
 
+[![](https://visitcount.itsvg.in/api?id=Kaanc3tin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 - 📫 How to reach me **kaan_1536@outlook.com**
@@ -23,14 +24,12 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next,git,kali,linux,postman,firebase,npm,vite)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kaanc3tin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kaanc3tin&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Kaanc3tin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kaanc3tin&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanc3tin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kaanc3tin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
