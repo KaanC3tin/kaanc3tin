@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next,git,kali,linux,postman,firebase,npm,vite,vim,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next,git,kali,linux,postman,firebase,npm,vite,vim,neovim,sass)](https://skillicons.dev)
 
 <h3>
 📊 GitHub Stats:
