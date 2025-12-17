@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,redux,react,next,git,kali,linux,postman,firebase,npm,vite,vim,neovim,sass,vercel,swagger,node,express,nestjs,sql,mysql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,redux,react,next,git,kali,debian,linux,postman,firebase,npm,vite,vim,neovim,sass,vercel,docker,cloudflare,swagger,nodejs,express,nestjs,mysql,mongodb,postgres)](https://skillicons.dev)
 
 <h3>
 📊 GitHub Stats:
