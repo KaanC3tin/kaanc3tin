@@ -1,7 +1,7 @@
 <h1  align="center">Hi 👋, I'm Kaan Çetin</h1>
 
 <p align="center">
-  <a href="https://www.kaancetin.site/" target="_blank">www.kaancetin.dev</a>
+  <a href="https://kaancetin.dev" target="_blank">www.kaancetin.dev</a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Kaanc3tin&icon=0&color=0)](https://visitcount.itsvg.in)
